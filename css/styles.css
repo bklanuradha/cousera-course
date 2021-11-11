@@ -23,6 +23,13 @@
     color:floralwhite;
 }
 
+.nav-link{
+    color: #0f0f0f;
+    
+}
+
+
+
 address{
     font-size:80%;
     margin:0px;
@@ -37,4 +44,9 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.card-header{
+    background-color: rgb(212, 199, 16);
+} 
+
 
