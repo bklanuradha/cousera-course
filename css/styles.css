@@ -23,10 +23,10 @@
     color:floralwhite;
 }
 
-/* .nav-link{
+#bck{
     color: #0f0f0f;
     
-} */
+}
 
 
 
@@ -45,7 +45,7 @@ body{
      background-color: #512DA8;
 }
 
-.card-header{
+#yellow{
     background-color: rgb(212, 199, 16);
 } 
 
