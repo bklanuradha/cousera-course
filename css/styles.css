@@ -28,7 +28,9 @@
     
 }
 
-
+#reserveform{
+    background-color: rgb(221, 221, 129);
+}
 
 address{
     font-size:80%;
@@ -45,9 +47,7 @@ body{
      background-color: #512DA8;
 }
 
-#yellow{
-    background-color: rgb(212, 199, 16);
-} 
+
 
 .tab-content {
     border-left: 1px solid #ddd;
